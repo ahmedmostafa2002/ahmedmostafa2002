@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
+![](https://komarev.com/ghpvc/?username=ahmedmostafa2002&color=dc143c&label=PROFILE+VIEWS&v=1)
 
 - 🔭 I’m currently working on [e-commerce web site with angular](https://github.com/RadwaMansour1/angular-project)
 
