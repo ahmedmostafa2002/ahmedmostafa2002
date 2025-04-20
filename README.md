@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on [e-commerce web site with angular](https://github.com/RadwaMansour1/angular-project)
-
-- 🌱 I’m currently learning **React , Next.js**
+- 🔭 I’m currently working on [Evenza Booking web site with angular](https://github.com/RadwaMansour1/angular-project)
 
 - 📫 How to reach me **ahmedmostafa4497@gmail.com**
 
